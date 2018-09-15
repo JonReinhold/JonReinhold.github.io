@@ -1,7 +1,1 @@
-div {
-   background-color: red;    
-   transition: background-color 1s linear;
-}
-div:hover {
-   background-color: transparent;      
-}
+background-color: hsla(50, 33%, 25%, .75);
